@@ -9,12 +9,18 @@ X . .
 
 ## Project Proposal
 ### 1. Abstract
+For our PIC 16B project, we hope to create a machine learning pipeline in which we classify brain tumors via MRI image data. We hope to create a model that can analyze a given MRI image and classify whether the brain is healthy or contains abnormalities. We would like to build a project that can help others and also offer a second “opinion” to doctors/researchers when they are interpreting the results of an MRI. In order to achieve these goals, we plan to use deep learning, more specifically, implement a convolutional neural network in order to classify MRI images as healthy or abnormal. 
 
 
 ### 2. Planned Deliverables
+In our eyes, we consider “full success” to be creating a website in which users can upload MRI images to our website and be given a response of “healthy” or “brain abnormality present”. In addition, if an abnormality is found, then we would like to draw a red box around the region of the predicted brain abnormality. This website would be especially beneficial to users as they could get an image classified instantaneously and also see exactly where brain tumors are present should our model detect one. 
+On the other hand, “half success” in our eyes would be having a code repository on Github that demonstrates the machine learning pipeline we created which could be used by others should they want to use or build upon our algorithm. 
+We understand the difficulties that may be present with building the web application tool indicated in our “full success” goal. Although this is our ultimate goal, we would also be more than proud of having a code repository that demonstrates our ML pipeline. 
+
 
 
 ### 3. Resources Required
+The data that is needed for our project can be collected from the Kaggle website. We have found some datasets that we feel are more than sufficient in helping us achieve the goal of our proposal. This dataset contains 4 classes of MRI images (Giloma tumor, Meningioma tumor, Pituitary tumor, and no tumor). On the other hand, this dataset is classified as simply yes (brain tumor present) or no (healthy). In the first phase of our project, we will do preliminary analysis on both datasets to see which we think is better for our ambitions. 
 
 
 ### 4. Tools/Skills Required
