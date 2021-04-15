@@ -1,11 +1,6 @@
 # Brain Tumor Classification
 Using Deep Learning to classify whether an MRI image contains a tumor.
 
-```python
-X . . 
-. . . 
-. O . 
-```
 
 ## Project Proposal
 ### 1. Abstract
