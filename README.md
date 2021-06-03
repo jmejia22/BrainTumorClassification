@@ -13,7 +13,7 @@ In this tutorial, we will demonstrate the functionality of our project through a
 </p>
 
 
-The next step would be to load in the necessary files onto your own Google Drive. Specifically, the next step would be to upload the `data` folder as well as the three `.py` files, located in the `py` folder, into Colab Notebooks. Within the `data` folder, there are two additional folders, `tumor_data` and `no_tumor`. `tumor_data` contains the .mat files downloaded from [figshare](https://figshare.com/articles/dataset/brain_tumor_dataset/1512427). `no_tumor` data was downloaded from [Kaggle](https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri).
+The next step would be to load in the necessary files onto your own Google Drive. Specifically, you need to upload the `data` folder as well as the three `.py` files, located in the `py` folder of this repository, into Colab Notebooks. Within the `data` folder, there are two additional folders, `tumor_data` and `no_tumor`. `tumor_data` contains the .mat files downloaded from [figshare](https://figshare.com/articles/dataset/brain_tumor_dataset/1512427). `no_tumor` data was downloaded from [Kaggle](https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri). These two folders contain the brain MRI images of patients with tumors and patients without. 
 
 <p align="center">
 
@@ -21,4 +21,4 @@ The next step would be to load in the necessary files onto your own Google Drive
 
 </p>
 
-Once all of these files are located in your own Colab Notebook folder, everything should be set to run `brain_tumor_classsification.ipynb`. There is more explanatory text within this Google Colab notebook that explains our process in preparing the data as well as building our model. 
+Once all of these files are located in your own Colab Notebook folder, everything should be set to run `brain_tumor_classsification.ipynb`. Just remember to switch to Google Colab's GPU when running the notebook! There is more explanatory text within the notebook that explains our process in preparing the data as well as building our model. 
