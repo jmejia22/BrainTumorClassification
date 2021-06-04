@@ -2,7 +2,7 @@
 Using Deep Learning to classify whether an MRI image contains a tumor.
 
 ## Group Contribution Statement
-Jacob: In terms of the code, I was responsible for writing the image augmentation function, preprocessing the data, helping build the machine learning model and tune it, writing functions responsible for plotting images, and predicting tumor position using linear regression, and adding functions to py files. I was also in charge of writing docstrings for about a quarter of the functions and adding comments throughout.  Wrote the explanatory text about machine bias. 
+Jacob: In terms of the code, I was responsible for writing the image augmentation function, preprocessing the data, helping build the CNN model, writing functions responsible for plotting images, predicting tumor position using linear regression, and adding functions to py files. I was also in charge of writing docstrings for about a quarter of the functions and adding comments throughout.  Wrote the explanatory text about machine learning bias. 
 
 
 ## Tutorial
